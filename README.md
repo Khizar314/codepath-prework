@@ -6,7 +6,7 @@ Submitted by: **NAME**
 
 Time spent: **#** hours spent in total
 
-Link to project: (insert your link here, should start with https://glitch.com...)
+Link to project: (https://glitch.com/edit/#!/goldenrod-nifty-tabletop)
 
 ## Required Functionality
 
