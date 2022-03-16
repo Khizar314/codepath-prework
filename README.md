@@ -4,7 +4,7 @@
 
 Submitted by: **Khizar Nasir**
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 Link to project: (https://glitch.com/edit/#!/goldenrod-nifty-tabletop)
 
@@ -44,16 +44,24 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 ## Reflection Questions
 
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.
-   [YOUR ANSWER HERE]
+
+   The walkthrough guide provided from Code Path was made very well and easy to understand. Although, I did not use any outside resources      for the project but have been watching some YouTube channels and Udemy courses to learn more about web development for my personal gain      of knowledge.
+
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)
-   [YOUR ANSWER HERE]
+   
+   The challenge I encountered was really getting an understanding of what and how the DOM works. It was confusing to me at first to see how    these static elements were becoming dynamic. I couldn’t understand how the HTML written was parsed into the DOM. To get a better            understanding I checked out YouTube, W3 Schools, and Mozilla Web Docs. The readings and videos were great and really showed me how          JavaScript can interact with webpage. It was interesting to see that the DOM is really where all the magic happens and how programs can      manipulate, structure, and style content with JavaScript.
+
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+   
+   There is a ton of questions I have about web development. This guide has certainly shown how HTML, CSS, JS work together to create          websites. After this guide, it really sparked my interest in web development. Surfing the web daily really made me question myself every    day on “I wonder how this was developed”. I would love to learn more about backend development. It would be very interesting to learn        more about user authentication, payment handling, and working with databases.
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)
-   [YOUR ANSWER HERE]
+
+4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding    additional features, etc). Be specific. (recommended 100 - 300 words)
+   
+   If I had a few more hours on this project, in my opinion I would spend more time on developing my frontend skills. I would like to spend    time on the design part of the site and practice restructuring and styling the elements uniquely as personal practice. Personally, before    diving deeper into JavaScript, I would like to take a deeper dive into CSS. I would like to learn more about topics such as the box          model, CSS Flexbox, CSS Grid, etc.
+
 
 ## Interview Recording URL Link
 
