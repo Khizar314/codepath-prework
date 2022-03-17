@@ -60,7 +60,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding    additional features, etc). Be specific. (recommended 100 - 300 words)
    
-   If I had a few more hours on this project, in my opinion I would spend more time on developing my frontend skills. I would like to spend    time on the design part of the site and practice restructuring and styling the elements uniquely as personal practice. Personally, before    diving deeper into JavaScript, I would like to take a deeper dive into CSS. I would like to learn more about topics such as the box          model, CSS Flexbox, CSS Grid, etc.
+   If I had a few more hours on this project, in my opinion I would spend more time on developing my frontend skills. I would like to spend    time on the design part of the site and practice restructuring and styling the elements uniquely as personal practice. Personally, before    diving deeper into JavaScript, I would like to take a deeper dive into CSS. I would like to learn more about advanced CSS topics especially positioning elements.
 
 
 ## Interview Recording URL Link
